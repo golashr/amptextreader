@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-amptextreader-dev-165257-authRole",
+            "UnauthRoleArn": "arn:aws:iam::204977035672:role/amplify-amptextreader-dev-165257-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::204977035672:role/amplify-amptextreader-dev-165257-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "amplify-amptextreader-dev-165257-deployment",
+            "UnauthRoleName": "amplify-amptextreader-dev-165257-unauthRole",
+            "StackName": "amplify-amptextreader-dev-165257",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:204977035672:stack/amplify-amptextreader-dev-165257/270630d0-c7fa-11ea-b42d-025411181be4",
+            "AmplifyAppId": "d2wlg0jrcykruy"
+        },
+        "categories": {
+            "auth": {
+                "amptextreaderf01b1aec": {}
+            }
+        }
+    }
+}

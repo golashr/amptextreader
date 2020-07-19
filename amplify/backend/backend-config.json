@@ -1,0 +1,18 @@
+{
+	"auth": {
+		"amptextreaderf01b1aec": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	},
+	"predictions": {
+		"identifyText34cb44cd": {
+			"providerPlugin": "awscloudformation",
+			"service": "RekognitionAndTextract",
+			"dependsOn": [],
+			"identifyType": "identifyText"
+		}
+	}
+}
