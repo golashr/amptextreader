@@ -1,4 +1,4 @@
-This project is to demonstrate the capability of AWS Amplify using which entire serverless infrastrcuture be designed and deployed seemlessly to reach an image and extract the text on the fly.
+This project is to demonstrate the capability of AWS Amplify using which entire serverless infrastrcuture be designed and deployed seemlessly to scan an image and extract the text of the image on the fly.
 
 This project launches a small frontend page on which user can select an image to read the text.
 

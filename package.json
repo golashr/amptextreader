@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "author": "Rahul Golash",
   "private": true,
-  "description": "Ecommerce frontend application to search the “Public Feed” Flickr JSONP API and view pics.",
+  "description": "A frontend application on which user can select an image to read the text of it using AWS technologies.",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
